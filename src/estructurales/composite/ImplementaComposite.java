@@ -1,5 +1,5 @@
 package estructurales.composite;
-
+//se utiliza para que un grupo de objetos se comporte como uno solo
 public class ImplementaComposite {
     public static void main(String[] args) {
 

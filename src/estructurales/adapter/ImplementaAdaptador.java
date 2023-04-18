@@ -1,5 +1,6 @@
 package estructurales.adapter;
-
+//permite que clases con interfaces que no están relacionadas puedan trabajar
+// entre sí
 public class ImplementaAdaptador {
     public static void main(String[] args) {
 

@@ -1,5 +1,5 @@
 package estructurales.adapter;
-
+//implementacion por composición
 public class SocketObjectAdapterImpl implements SocketAdaptador{
 
     private Socket sock = new Socket();

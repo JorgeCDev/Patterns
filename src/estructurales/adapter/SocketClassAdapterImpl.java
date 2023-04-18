@@ -1,5 +1,5 @@
 package estructurales.adapter;
-
+//implementacion por herencia
 public class SocketClassAdapterImpl extends Socket implements SocketAdaptador {
 
     @Override
